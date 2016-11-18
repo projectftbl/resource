@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/resource",
-  "version": "1.0.10",
+  "name": "@recipher/resource",
+  "version": "1.0.11",
   "description": "Redux middleware for promise-based resource requests",
   "main": "dist/index",
   "scripts": {
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/resource.git"
+    "url": "git@github.com:recipher/resource.git"
   },
   "dependencies": {
     "axios": "^0.5.4",
@@ -25,7 +25,7 @@
     "react-cookie": "^0.4.5"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.5.0",
+    "@recipher/gulp": "^1.5.0",
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.4.5",
